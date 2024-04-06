@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Pedido7115547": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7197",
+      "launchBrowser": false
+    }
+  }
+}
